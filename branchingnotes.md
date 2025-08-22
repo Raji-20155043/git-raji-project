@@ -11,7 +11,11 @@
     git add . (command) - adding the files
     git commit -m "message"  (command) - new file committed
     git log (command) - to see the log events 
-    
+
+6. switched back to master branch by entering the command git checkout "branchname" (master)
+7. created another new file in the master branch and committed the files
+8. Switched back again to "branch-merge" branch and committed the changes
+
  
 
 # Reference link
