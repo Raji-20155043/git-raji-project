@@ -1,0 +1,2 @@
+# Additional commands
+git log --all --graph (command) - displays the graph and events
