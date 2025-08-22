@@ -18,3 +18,6 @@ Steps to follow create repository
 13. Now all the files are committed in that repository. (Nothing will be displayed in file menu)
 14. git status (command) - to check the status. Now it will show as "On branch master nothing to commit, working tree clean"
 
+# Note
+If you forget to put the -m flag when you are commiting it will open the editor message file as which file has been modified (This file is opened from the .git file)
+Give a message in the header and save it. Then close the file
