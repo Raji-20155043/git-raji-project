@@ -22,5 +22,10 @@ Steps to follow create repository
 If you forget to put the -m flag when you are commiting it will open the editor message file as which file has been modified (This file is opened from the .git file)
 Give a message in the header and save it. Then close the file
 
+# Changing default branch name (from master to main)
+git branch -m master main
+pushing this to remote
+git push -u origin main
+
 # Reference link
 https://www.youtube.com/watch?v=CvUiKWv2-C0
