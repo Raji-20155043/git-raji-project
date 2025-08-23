@@ -27,5 +27,12 @@ git branch -m master main
 pushing this to remote
 git push -u origin main
 
+After changing default branch name in bash terminal, GitHub page pops the "compare&Pull request" button on top - because the default branch name in GitHub was set to master.  To resolve this follow the below steps
+
+# Changing the default branch name (in GitHub)
+1. Goto repository settings page in your GitHub account
+2. Change the Default branch name from the drop down by clicking the switch to another branch icon(button)
+
+
 # Reference link
 https://www.youtube.com/watch?v=CvUiKWv2-C0
